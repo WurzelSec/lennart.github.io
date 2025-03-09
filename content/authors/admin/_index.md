@@ -44,17 +44,6 @@ education:
           In dieser Zeit habe ich umfassende Kenntnisse in der Systemintegration erworben, insbesondere in den Bereichen Netzwerkadministration, Betriebssysteme und IT-Sicherheit. Dabei konnte ich praktische Erfahrungen in der Installation und Wartung von Servern sowie in der Konfiguration von Arbeitsplätzen sammeln. Meine Aufgaben umfassten zudem die Analyse, Planung und Implementierung von IT-Systemen, die Fehlersuche und -behebung sowie die Dokumentation sämtlicher Systemumgebungen.
 
 work:
-  - position: Linux Administrator
-    company_name: SBE Network Solutions GmbH
-    company_url: 'https://sbe.de'
-    company_logo: ''
-    date_start: "2020-08-01"
-    date_end: "2023-06-01"
-    summary: |
-      Aufgaben:
-      - Installation, Konfiguration und Wartung von Mail-, MDM-, Linux-Servern
-      - Monitoring von Linux-Servern mit Zabbix
-      - Installation und Integration von Firewalls und Linux-Servern beim Kunden im Außendienst
   - position: Security Analyst / Security Engineer
     company_name: SmartTECS Cyber Security GmbH
     company_url: 'https://smarttecs.com/cyber-security/'
@@ -68,16 +57,31 @@ work:
       - Unterstützung bei der Implementierung von Informationsmanagementsystemen gemäß ISO 27001
       - Konzeption und Härtung von Linux-Infrastrukturen auf Basis von RHEL und Debian
       - Integration und Überwachung von Network Intrusion Detection Systemen (NIDS, AIDS, HIDS)
+  - position: Linux Administrator
+    company_name: SBE Network Solutions GmbH
+    company_url: 'https://sbe.de'
+    company_logo: ''
+    date_start: "2020-08-01"
+    date_end: "2023-06-01"
+    summary: |
+      Aufgaben:
+      - Installation, Konfiguration und Wartung von Mail-, MDM-, Linux-Servern
+      - Monitoring von Linux-Servern mit Zabbix
+      - Installation und Integration von Firewalls und Linux-Servern beim Kunden im Außendienst
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technische Fähigkeiten
     items:
-      - name: Linux Administration & Hardening
+      - name: Linux Administration
         description: ''
         percent: 80
         icon: devicon/python
+      - name: Ansible
+        description: ''
+        percent: 80
+        icon: devicon/pytorch
       - name: LXC
         description: ''
         percent: 70
@@ -138,15 +142,18 @@ awards:
     icon: edx
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys-VMDR (Vulnerability Management, Detection and Response) Schwachstellen in IT-Umgebungen automatisiert zu erkennen, ihren Schweregrad zu beurteilen, angemessene Gegenmaßnahmen zu planen und umzusetzen sowie Berichte zu erstellen und Compliance-Anforderungen zu berücksichtigen.
+      <br><br>
+      <strong>Verifizierungscode: 2045695</strong>
 
   - title: 'Endpoint Detection and Response Certification'
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
-    certificate_url: https://www.datacamp.com
     date: "2025-03-05"
     awarder: Qualys
     icon: datacamp
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys Endpoint Detection and Response (EDR) Endpunkte kontinuierlich zu überwachen, potenzielle Bedrohungen zu erkennen, geeignete Gegenmaßnahmen einzuleiten sowie Sicherheitsvorfälle zu untersuchen und zu berichten, um eine ganzheitliche Absicherung der IT-Umgebung sicherzustellen.
+      <br><br>
+      <strong>Verifizierungscode: 7384623</strong>
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
