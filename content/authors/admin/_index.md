@@ -85,7 +85,7 @@ skills:
       - name: LXC
         description: ''
         percent: 70
-        icon: devicon/python
+        icon: hero/hive-box
       - name: Windows Sicherheit
         description: ''
         percent: 50
@@ -93,7 +93,7 @@ skills:
       - name: Pentesting
         description: ''
         percent: 30
-        icon: hero/sparkles
+        icon: hero/shield-exclamation
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
