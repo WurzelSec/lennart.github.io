@@ -93,7 +93,7 @@ skills:
       - name: Pentesting
         description: ''
         percent: 30
-        icon: devicon/pytorch
+        icon: shield-checkered
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -131,7 +131,7 @@ awards:
     certificate_url: https://www.credly.com/badges/85cd2b79-09c8-414f-a6aa-c3d793fbdc2a
     date: "2025-02-18"
     awarder: Linux Professional Institute
-    icon: 'coursera'
+    #icon: 'coursera'
     summary: |
      Der Inhaber dieses Abzeichens zeigt die Fähigkeit, die Linux-Architektur zu verstehen, ein Linux-System zu installieren und zu warten (einschließlich X11 und Netzwerkeinrichtung), die Kommandozeile mit gängigen GNU- und Unix-Befehlen zu verwenden, Dateien, Berechtigungen und Systemsicherheit zu verwalten und grundlegende Wartungsaufgaben wie Benutzerunterstützung, Backups und Systemneustart durchzuführen.
 
@@ -139,7 +139,7 @@ awards:
     url: https://www.qualys.com/training/course/vmdr/
     date: "2025-03-05"
     awarder: Qualys
-    icon: edx
+    #icon: edx
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys-VMDR (Vulnerability Management, Detection and Response) Schwachstellen in IT-Umgebungen automatisiert zu erkennen, ihren Schweregrad zu beurteilen, angemessene Gegenmaßnahmen zu planen und umzusetzen sowie Berichte zu erstellen und Compliance-Anforderungen zu berücksichtigen.
       <br><br>
@@ -149,7 +149,7 @@ awards:
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
     date: "2025-03-05"
     awarder: Qualys
-    icon: datacamp
+    #icon: datacamp
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys Endpoint Detection and Response (EDR) Endpunkte kontinuierlich zu überwachen, potenzielle Bedrohungen zu erkennen, geeignete Gegenmaßnahmen einzuleiten sowie Sicherheitsvorfälle zu untersuchen und zu berichten, um eine ganzheitliche Absicherung der IT-Umgebung sicherzustellen.
       <br><br>
