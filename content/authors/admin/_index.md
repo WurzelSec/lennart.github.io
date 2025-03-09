@@ -59,8 +59,8 @@ work:
     company_name: SmartTECS Cyber Security GmbH
     company_url: 'https://smarttecs.com/cyber-security/'
     company_logo: ''
-    date_start: "2020-08-01"
-    date_end: "present"
+    date_start: "2023-08-01"
+    date_end: "9999-01-01"
     summary: |
       Aufgaben:
       - Durchführung von Penetrationstests aller Art
