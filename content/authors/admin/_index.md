@@ -93,7 +93,7 @@ skills:
       - name: Pentesting
         description: ''
         percent: 30
-        icon: shield-checkered
+        icon: academicons/lock-open
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
