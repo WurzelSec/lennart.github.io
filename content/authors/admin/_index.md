@@ -85,7 +85,7 @@ skills:
       - name: LXC
         description: ''
         percent: 70
-        icon: hero/hive-box
+        icon: hero/archive-box
       - name: Windows Sicherheit
         description: ''
         percent: 50
@@ -109,7 +109,7 @@ skills:
       - name: IT Sachen
         description: ''
         percent: 90
-        icon: computer
+        icon: hero/computer-desktop
       - name: Sportfotografie
         description: ''
         percent: 40
@@ -156,4 +156,3 @@ awards:
       Verifizierungscode: 7384623
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
