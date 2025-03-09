@@ -35,21 +35,21 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
 
-
 education:
-  - area: Ausbildumg zum Fachinformatiker für Systemintegration
+  - area: Ausbildung zum Fachinformatiker für Systemintegration
     institution: Oberstufenzentrum Informations- und Medizintechnik
-    date_start: 01.08.2020
-    date_end: 01.06.2023
+    date_start: "2020-08-01"
+    date_end: "2023-06-01"
     summary: |
           In dieser Zeit habe ich umfassende Kenntnisse in der Systemintegration erworben, insbesondere in den Bereichen Netzwerkadministration, Betriebssysteme und IT-Sicherheit. Dabei konnte ich praktische Erfahrungen in der Installation und Wartung von Servern sowie in der Konfiguration von Arbeitsplätzen sammeln. Meine Aufgaben umfassten zudem die Analyse, Planung und Implementierung von IT-Systemen, die Fehlersuche und -behebung sowie die Dokumentation sämtlicher Systemumgebungen.
+
 work:
   - position: Linux Administrator
     company_name: SBE Network Solutions GmbH
     company_url: 'https://sbe.de'
     company_logo: ''
-    date_start: 01.08.2020
-    date_end: 01.06.2023
+    date_start: "2020-08-01"
+    date_end: "2023-06-01"
     summary: |
       Aufgaben:
       - Installation, Konfiguration und Wartung von Mail-, MDM-, Linux-Servern
@@ -59,9 +59,9 @@ work:
     company_name: SmartTECS Cyber Security GmbH
     company_url: 'https://smarttecs.com/cyber-security/'
     company_logo: ''
-    date_start: 01.08.2020
-    date_end: Heute
-    summary: |2-
+    date_start: "2020-08-01"
+    date_end: "present"
+    summary: |
       Aufgaben:
       - Durchführung von Penetrationstests aller Art
       - Erstellung von IT-Notfallkonzepten
@@ -125,16 +125,15 @@ awards:
   - title: LPIC-1 | Linux Administrator
     url: https://www.lpi.org/de/our-certifications/lpic-1-overview/
     certificate_url: https://www.credly.com/badges/85cd2b79-09c8-414f-a6aa-c3d793fbdc2a
-    date: '18.02.2025'
+    date: "2025-02-18"
     awarder: Linux Professional Institute
     icon: 'coursera'
     summary: |
      Der Inhaber dieses Abzeichens zeigt die Fähigkeit, die Linux-Architektur zu verstehen, ein Linux-System zu installieren und zu warten (einschließlich X11 und Netzwerkeinrichtung), die Kommandozeile mit gängigen GNU- und Unix-Befehlen zu verwenden, Dateien, Berechtigungen und Systemsicherheit zu verwalten und grundlegende Wartungsaufgaben wie Benutzerunterstützung, Backups und Systemneustart durchzuführen.
 
-
   - title: Vulnerability Management Detection and Response Certification
     url: https://www.qualys.com/training/course/vmdr/
-    date: '05-03-2025'
+    date: "2025-03-05"
     awarder: Qualys
     icon: edx
     summary: |
@@ -143,7 +142,7 @@ awards:
   - title: 'Endpoint Detection and Response Certification'
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
     certificate_url: https://www.datacamp.com
-    date: '05-03-2025'
+    date: "2025-03-05"
     awarder: Qualys
     icon: datacamp
     summary: |
