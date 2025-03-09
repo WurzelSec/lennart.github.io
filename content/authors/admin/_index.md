@@ -77,11 +77,11 @@ skills:
       - name: Linux Administration
         description: ''
         percent: 80
-        icon: devicon/python
+        icon: devicon/linux
       - name: Ansible
         description: ''
         percent: 80
-        icon: devicon/pytorch
+        icon: devicon/ansible
       - name: LXC
         description: ''
         percent: 70
@@ -89,7 +89,7 @@ skills:
       - name: Windows Sicherheit
         description: ''
         percent: 50
-        icon: devicon/rstudio
+        icon: devicon/windows11
       - name: Pentesting
         description: ''
         percent: 30
@@ -109,7 +109,7 @@ skills:
       - name: IT Sachen
         description: ''
         percent: 90
-        icon: camera
+        icon: computer
       - name: Sportfotografie
         description: ''
         percent: 40
@@ -143,7 +143,7 @@ awards:
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys-VMDR (Vulnerability Management, Detection and Response) Schwachstellen in IT-Umgebungen automatisiert zu erkennen, ihren Schweregrad zu beurteilen, angemessene Gegenmaßnahmen zu planen und umzusetzen sowie Berichte zu erstellen und Compliance-Anforderungen zu berücksichtigen.
       <br><br>
-      <strong>Verifizierungscode: 2045695</strong>
+      Verifizierungscode: 2045695
 
   - title: 'Endpoint Detection and Response Certification'
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
@@ -153,7 +153,7 @@ awards:
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys Endpoint Detection and Response (EDR) Endpunkte kontinuierlich zu überwachen, potenzielle Bedrohungen zu erkennen, geeignete Gegenmaßnahmen einzuleiten sowie Sicherheitsvorfälle zu untersuchen und zu berichten, um eine ganzheitliche Absicherung der IT-Umgebung sicherzustellen.
       <br><br>
-      <strong>Verifizierungscode: 7384623</strong>
+      Verifizierungscode: 7384623
 ---
 
 I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
