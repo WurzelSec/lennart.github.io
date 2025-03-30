@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Ein kurzer digitaler Lebenslauf.'
+    description: 'Lennart Hostettler - Ein kurzer digitaler Lebenslauf.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: false
       allow_derivatives: false
