@@ -28,12 +28,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:lennart//hostettler.info'
+    url: 'mailto:lennart.hostettler // smarttecs.de'
     label: E-mail
-  - icon: brands/github
-    url: https://github.com/gcushen
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/lennart-hostettler-8a2680297/
 
 education:
   - area: Ausbildung zum Fachinformatiker für Systemintegration
