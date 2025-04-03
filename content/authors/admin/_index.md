@@ -126,6 +126,19 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Offensive Phishing Operations
+    url: https://maldevacademy.com/phishing-course
+    #certificate_url: https://www.credly.com/badges/85cd2b79-09c8-414f-a6aa-c3d793fbdc2a
+    date: "2025-03-04"
+    awarder: MalDevAcademy
+    #icon: 'coursera'
+    summary: |
+     Der Kurs „Offensive Phishing Operations“ der Maldev Academy 
+     lehrt den Aufbau einer sicheren Phishing-Infrastruktur und analysiert jeden 
+     Schritt, um operative Sicherheitslücken zu identifizieren. Der Kurs behandelt die Erkennungsmethoden
+     von Sicherheitsanbietern und Verteidigern sowie die Implementierung von
+     Anti-Analyse- und Anti-Bot-Strategien, um eine frühzeitige Erkennung der eigenen Kampagne zu vermeiden.
+
   - title: LPIC-1 | Linux Administrator
     url: https://www.lpi.org/de/our-certifications/lpic-1-overview/
     certificate_url: https://www.credly.com/badges/85cd2b79-09c8-414f-a6aa-c3d793fbdc2a
@@ -139,7 +152,7 @@ awards:
     url: https://www.qualys.com/training/course/vmdr/
     date: "2025-03-05"
     awarder: Qualys
-    #icon: edx
+    icon: edx
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys-VMDR (Vulnerability Management, Detection and Response) Schwachstellen in IT-Umgebungen automatisiert zu erkennen, ihren Schweregrad zu beurteilen, angemessene Gegenmaßnahmen zu planen und umzusetzen sowie Berichte zu erstellen und Compliance-Anforderungen zu berücksichtigen.
       <br><br>
@@ -149,7 +162,7 @@ awards:
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
     date: "2025-03-05"
     awarder: Qualys
-    #icon: datacamp
+    icon: datacamp
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys Endpoint Detection and Response (EDR) Endpunkte kontinuierlich zu überwachen, potenzielle Bedrohungen zu erkennen, geeignete Gegenmaßnahmen einzuleiten sowie Sicherheitsvorfälle zu untersuchen und zu berichten, um eine ganzheitliche Absicherung der IT-Umgebung sicherzustellen.
       <br><br>
