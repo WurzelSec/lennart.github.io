@@ -152,7 +152,7 @@ awards:
     url: https://www.qualys.com/training/course/vmdr/
     date: "2025-03-05"
     awarder: Qualys
-    icon: edx
+    #icon: edx
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys-VMDR (Vulnerability Management, Detection and Response) Schwachstellen in IT-Umgebungen automatisiert zu erkennen, ihren Schweregrad zu beurteilen, angemessene Gegenmaßnahmen zu planen und umzusetzen sowie Berichte zu erstellen und Compliance-Anforderungen zu berücksichtigen.
       <br><br>
@@ -162,7 +162,7 @@ awards:
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
     date: "2025-03-05"
     awarder: Qualys
-    icon: "custom/qualys"
+    #icon: "custom/qualys"
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys Endpoint Detection and Response (EDR) Endpunkte kontinuierlich zu überwachen, potenzielle Bedrohungen zu erkennen, geeignete Gegenmaßnahmen einzuleiten sowie Sicherheitsvorfälle zu untersuchen und zu berichten, um eine ganzheitliche Absicherung der IT-Umgebung sicherzustellen.
       <br><br>
