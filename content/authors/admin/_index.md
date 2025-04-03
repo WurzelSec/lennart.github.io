@@ -162,7 +162,7 @@ awards:
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
     date: "2025-03-05"
     awarder: Qualys
-    icon: custom/qualys
+    icon: "custom/qualys"
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys Endpoint Detection and Response (EDR) Endpunkte kontinuierlich zu überwachen, potenzielle Bedrohungen zu erkennen, geeignete Gegenmaßnahmen einzuleiten sowie Sicherheitsvorfälle zu untersuchen und zu berichten, um eine ganzheitliche Absicherung der IT-Umgebung sicherzustellen.
       <br><br>
