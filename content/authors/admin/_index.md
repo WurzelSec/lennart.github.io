@@ -129,7 +129,7 @@ awards:
   - title: Offensive Phishing Operations
     url: https://maldevacademy.com/phishing-course
     #certificate_url: https://www.credly.com/badges/85cd2b79-09c8-414f-a6aa-c3d793fbdc2a
-    date: "2025-03-04"
+    date: "2025-04-03"
     awarder: MalDevAcademy
     #icon: 'coursera'
     summary: |
@@ -162,7 +162,7 @@ awards:
     url: https://www.qualys.com/training/course/endpoint-detection-and-response/
     date: "2025-03-05"
     awarder: Qualys
-    icon: datacamp
+    icon: custom/qualys
     summary: |
       Der Inhaber dieses Abzeichens zeigt die Fähigkeit, mithilfe von Qualys Endpoint Detection and Response (EDR) Endpunkte kontinuierlich zu überwachen, potenzielle Bedrohungen zu erkennen, geeignete Gegenmaßnahmen einzuleiten sowie Sicherheitsvorfälle zu untersuchen und zu berichten, um eine ganzheitliche Absicherung der IT-Umgebung sicherzustellen.
       <br><br>
